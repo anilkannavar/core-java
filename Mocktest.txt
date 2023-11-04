@@ -1,0 +1,133 @@
+1.java is widely used object oriented programming language.it is used to devleop the web based based applications and mobile applications.
+  it is invented by james gosling.
+
+  javac is a tool that is used to compile the java program.
+
+2.JDK:it is stands for java development kit.it is used to write and execute the java program.it contains tools and JRE.
+
+  JRE: it is stands for java runtime environment.it is used to run and execute the java program.it contains libraries and JVM.
+
+  JDK:it is stands for java virtual machine.it is used to execute the code.
+
+3..java file:java file is saved file which is crated by the user.it will saved as a classname.java. it is used to represent the file of java program.
+  .class file: it is one of the main file which generates source code into a bytr code.it will take the used written code and it will converted
+   sorce code to byte code.
+
+4.The java IDE's are:
+  Notepad++.
+  virtual studio code.
+  Eclipse.
+  Anaconda.
+  Netbeans.
+
+5.Variable is used to store the information.it is used to allocates the address of the memory location.
+  types of variables are:
+  *static level:
+  *method level:
+
+6.with the help of object we can create polymorphism,encapsulation,abstraction,inheritance and from the object oriented programming  we can create
+  object 
+
+7.public classXworkz
+  {
+  public static void main(String[] args){
+  }
+  public static void main(String[] args){
+  }
+ }
+ output:no statement return
+ 
+
+8.data type is a different size or values stored in the variable is called data type.
+  it has 2 types.
+  *primitive datatype:primirive datatype is a predefined datatype.
+   byte 8;
+   char 's';
+   int age=23;
+   boolean true;
+   float weight=23.5;
+   long conatactNo=9876064563l;
+   double distance=2.3;
+   short pincode=577002;
+   
+  *non primitive datatype:it is a user defined datatype.
+   Array;
+   String name="anil";
+   Any classes is non primitive data type.
+
+9.dot operator are used to access the properties and methods of a class.
+  Temple.name=name;
+
+10.the java features are:
+   exception handling.
+   security.
+   speed.
+   automated garbage collection.
+   multitasking.
+
+11.Array is a collection of homogenous elements.array can be accessed by using index.
+   if the array has been declared.it cannot be changed the size of an array.
+   Example:int[] age={23,24,12,34,25};
+           String[] name={"anil","madhu","kiarn","manthesh","hitesh"};
+           float[] weight={61.3,68.9,76.3,54.6,62.5};
+
+12.Class is a blueprint of creating a objects and it is uesd to create mathods and delaring datatype.
+   class can also called as a non primitive datatype.data type or T
+   Example:
+          class Xworkz
+          {
+             }
+    Object is instance of a class.it has two types
+    *state(properties)
+    *behavioyur(functionalities)
+      Example:class Xworkz{
+             public static void main(String[] args){
+             Laptop laptop=new Laptop;
+             }
+            }
+
+13.Keywords are reserved keywords.
+   it can not be used as a variable or method name.
+   it cannot be changed it is a predefined keywords.
+   Ex:if,const*,public,private,for,class,return.
+
+14.Constructor is a special method.
+   it as a same name as a class name.
+   it is used to initialize the instance variable.
+   it has no return type.
+   constructor will be default or parametarized.
+   
+15.it is amain method.jvm will starts the execution form main method.
+   whenever we runs the program jvm will first execute the main method.
+
+16.class Array
+   {
+    public static void main(String[] args)
+    int[] array=[12,3,2,45,6,7,6];
+    for(int i=0;i<array.length;i++){
+       Sytem.out.println(array[i]);
+       }
+    }
+
+17.method is a block of code.it will executes when it has been called.
+   Example:
+    class Name{
+         void showName(){
+             System.out.println();
+              }
+        }
+  
+   method overloading is a method having same name but having diferent parameters is method overloading.
+   Example: 
+           void displayAge(int age,String name)
+               {
+                 System.ot.println("age and name of the person"+age","+name);
+               }
+           void displayAge(String address,double weight)
+               {
+                 
+                 System.ot.println("age and name of the person"+address","+weight);
+               }
+   
+
+   
