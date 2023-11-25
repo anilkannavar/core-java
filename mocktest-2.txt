@@ -1,0 +1,71 @@
+1. class Anil
+   {
+     public static vod main(String... args)
+     {
+       int num=2;
+       if(num==prime)
+       {
+         System.out.println("the given number is prime:");
+       }
+       else
+       {
+         System.out.println("the given number is not a prime");
+       }
+     }
+   }
+
+2.class Rverse
+  {
+   public static void main(String... args)
+   {
+     String name="xworkz";
+     int i=name.length;
+    while(i>0)
+    {
+      System.out.println("reverse of the string is");
+    }
+   }
+  }
+
+4.class pattern
+  {
+   public static void main(String... args)
+   {
+   String name;
+   for(int seq=0;seq<name.length;seq--)
+   {
+   System.out.println("name to uppercase");
+   }
+   for(int seq=0;seq<name.length;seq--)
+   {
+    System.out.println("name to uppercase");
+   }
+   }
+  }
+   
+4.class pattern
+  {
+   public static void main(String.. args)
+   System.out.println("Enter the no of rows and columns to print");
+   for(int i=0;i<=rows;i++)
+   {
+    for(int j=0;j<=i;j++)
+    {
+      System.out.println("*");
+    {
+     for(int k=0;k<=rows-1;k++)
+     {
+      System.out.println("");
+     {
+      for(int k=0;k<i;k++)
+      {
+       System.out.println("*")
+      }
+}
+}
+}
+}
+ 
+     
+       
+
