@@ -5,4 +5,5 @@
  * 
  */
 module Streams {
+	requires lombok;
 }
