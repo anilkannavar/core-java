@@ -17,7 +17,4 @@ public class AddressDTO implements Serializable{
 	int no;
 	int pincode;
 	String street;
-	
-	
-
 }

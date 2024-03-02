@@ -13,6 +13,7 @@ import lombok.ToString;
 @AllArgsConstructor
 @NoArgsConstructor
 @ToString
+
 public class DiseaseDTO implements Serializable,Comparable<DiseaseDTO>{
 	
 	private String name;

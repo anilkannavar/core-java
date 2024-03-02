@@ -13,6 +13,7 @@ import lombok.ToString;
 @AllArgsConstructor
 @NoArgsConstructor
 @ToString
+
 public class SensorDTO implements Serializable{
 	
 	private String name;
